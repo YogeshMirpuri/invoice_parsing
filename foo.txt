@@ -1,0 +1,19 @@
+Files for invoice parser demo.zip
+README.md
+all_questions.py
+app.py
+basic copy.py
+basic.py
+basic_3.py
+basic_copy.py
+basic_image.py
+basic_save_as_DB_format.py
+data.py
+db_connection copy.py
+db_connection.py
+foo.txt
+invoice_data.xlsx
+my_model_new_63/
+output_file.json
+requirements.txt
+web.py
